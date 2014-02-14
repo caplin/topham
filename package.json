@@ -1,0 +1,23 @@
+{
+  "name": "topham",
+  "version": "0.0.0",
+  "description": "topham is a controller for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kybernetikos/topham.git"
+  },
+  "author": "kybernetikos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kybernetikos/topham/issues"
+  },
+  "homepage": "https://github.com/kybernetikos/topham",
+  "dependencies": {},
+  "bin": {
+    "topham": "./bin/topham"
+  }
+}
